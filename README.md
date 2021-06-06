@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Thomas@TheMiridius
--
 - 👀 I’m interested in products and services that make a true impact on the world;
 
 - 🌱 Current Assets: HTML, CSS, Cloud Computing 
