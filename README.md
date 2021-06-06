@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @TheMiridius
+- 👋 Hi, I’m Thomas@TheMiridius
+-
 - 👀 I’m interested in products and services that make a true impact on the world;
-- 🌱 I’m currently learning Full Stack Cloud Development and UX Design;
-- 💞️ I’m looking to collaborate and lead a project with like minded individuals that want to create something amazing. Projects that interest me include: 
-Blockchain, DeFi and Cloud based applications. I believe the Food Industry can benefit immensely from Blockchain Technology and would like to see myself 
-and those willing to join, attend to and deliver solutions that will improve the Food Industry. 
-- 📫 How to reach me: https://www.linkedin.com/in/thomasgibney9/
+
+- 🌱 Current Assets: HTML, CSS, Cloud Computing 
+- ⛏  Assets In Development: Javascript, React, Solidity, & Truffle
+
+- 💞️ I am motivate by result-driven people with an emphasis on user-centric design and would love to build amazing projects with like-minded individuals. I have a strong knowledge in Blockchain Technology, DeFi and Cloud based applications. 
+
+- 📫 How to reach me: **https://www.linkedin.com/in/thomasgibney9/** or even better why dont we have a coffee.
 
 <!---
 TheMiridius/TheMiridius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
