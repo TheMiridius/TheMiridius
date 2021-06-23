@@ -1,3 +1,4 @@
+<div style="background-color:black;color:white;padding:20px;">
 - <h1><strong>👋Greetings All</strong></h1>
 - <h2>👀 Searching for like-minded individuals to help me build products and services that change the world</h2>
 - <h2>🌱 Current Assets: HTML, CSS, Cloud Computing K8s <h2>
