@@ -10,6 +10,3 @@ TheMiridius/TheMiridius is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-body {
-  background-color: green;
-  }
