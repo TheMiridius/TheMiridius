@@ -1,4 +1,4 @@
-- <h1>👋Greetings All</h1>
+- <h1><b>👋Greetings All</b></h1>
 - <h2>👀 Searching for like-minded individuals to help me build products and services that change the world</h2>
 - <h2>🌱 Current Assets: HTML, CSS, Cloud Computing K8s <h2>
 - <h2>⛏  Assets In Development: K8s (CKAD), Javascript, React, Solidity, & Truffle</h2>
